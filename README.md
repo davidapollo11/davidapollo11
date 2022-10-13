@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm David Apollo 👋
 
-<!--
-**davidapollo11/davidapollo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm Web Developer.💻 I'm currently studying web development at [Rocketseat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main Language: `Javascript`
+- 📡 Backend: `NodeJS`
+- 💡 Frontend: `HTML5`, `CSS3`, `Javascript`
+- 📦️ Version Code Control: `Git & Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- E-mail: davidapollo11@hotmail.com
+- LinkedIn: [david-apollo](https://www.linkedin.com/in/david-apollo-375a23111/)
