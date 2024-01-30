@@ -1,7 +1,7 @@
 ### Hi there, I'm David Apollo 👋
 
 #### About
-I'm Web Developer.💻 I'm currently studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+I'm Web Developer.💻 I'm currently studying web development and studying Software Engineering.
 
 #### Current Stack
 - ⚡️ Main Language: `Javascript`
