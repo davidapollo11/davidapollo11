@@ -4,7 +4,7 @@
 I'm Web Developer.💻 I'm currently studying web development and studying Software Engineering.
 
 #### Current Stack
-- ⚡️ Main Language: `Javascript`
+- ⚡️ Main Language: `Javascript`, `C# and .NET`
 - 📡 Backend: `NodeJS`
 - 💡 Frontend: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
 - 📦️ Version Code Control: `Git & Github`
